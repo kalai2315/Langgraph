@@ -1,4 +1,4 @@
-# LangGraph + Google Gemini AI Workflow
+# Building Research AI Assistant Using Langgraph
 
 This project demonstrates how to build a simple AI agent system using LangGraph and Google Gemini 2.5 Pro. 
 The system can handle conversations, decide when to use external tools, and process the results dynamically.
