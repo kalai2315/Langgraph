@@ -1,0 +1,4 @@
+langgraph==0.2.59
+langchain_community
+langchain-google-genai
+python-dotenv
