@@ -17,6 +17,14 @@ All conversation history is tracked to maintain context and improve the quality 
 
 Results can be displayed neatly in a Jupyter Notebook for easy viewing.
 
+## Setup Requirements
+
+API keys for Google Gemini and Tavily Search.
+
+Environment variables to securely store API keys.
+
+Jupyter Notebook for visualizing responses.
+
 ## Key Components
 
 AI Model: Uses Google Gemini 2.5 Pro for generating conversational responses.
@@ -30,14 +38,6 @@ Conversation State: Keeps a history of messages, tool calls, and responses.
 Dynamic Flow: The system automatically decides when to invoke a tool and then continues the conversation after receiving the tool’s output.
 
 <img width="664" height="528" alt="image" src="https://github.com/user-attachments/assets/4a63d00a-018b-4bcc-ba56-54d81736861d" />
-
-## Setup Requirements
-
-API keys for Google Gemini and Tavily Search.
-
-Environment variables to securely store API keys.
-
-Jupyter Notebook for visualizing responses.
 
 ## How It Works
 
